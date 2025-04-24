@@ -12,8 +12,6 @@ Built using a combination of **speech-to-text**, **prompt-engineered instruction
 |---------------|-------|
 | "Pick up the red cube next to the black one" | [![Demo 2](https://img.youtube.com/vi/5sRKFwPjiTE/0.jpg)](https://youtube.com/shorts/5sRKFwPjiTE) |
 | "Stack the brown cube next to the yellow cube" | [![Demo 3](https://img.youtube.com/vi/Fj-wdPBOoEY/0.jpg)](https://youtube.com/shorts/Fj-wdPBOoEY) |
-
-It can even handle complex commands such as:
 | "Place the blue cube on the red one and the yellow cube on the blue cube" | [![Demo 1](https://img.youtube.com/vi/5JA7fOdkMO8/0.jpg)](https://youtube.com/shorts/5JA7fOdkMO8) |
 
 ---
