@@ -1,6 +1,6 @@
 # 🤖 Language-Instructed Robotic Arm (LLM + Simulation Demo)
 
-This project demonstrates a simulated robotic arm that can understand and respond to natural language instructions. The system takes a voice command (e.g., "move the red block to the top-right corner"), interprets spatial intent, and controls a robotic arm to execute the task in real time.
+This project demonstrates a simulated robotic arm that can understand and respond to natural language instructions. The system takes a voice command (e.g., "move the red block on the yellow cube"), interprets spatial intent, and controls a robotic arm to execute the task in real time.
 
 Built using a combination of **speech-to-text**, **prompt-engineered instruction data**, and a **fine-tuned GPT-3.5 Turbo model**, this project explores how large language models can be grounded in simulated physical environments.
 
