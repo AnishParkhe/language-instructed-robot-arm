@@ -33,6 +33,6 @@ The fine-tuning dataset used for this project is available in the [`/data`](./da
 
 ## 🚧 Code Availability
 
-Due to ongoing work and restrictions, the simulation code is not yet open-sourced. However, the demo recordings and dataset are public, and we plan to release the code in the future.
+The code for this project is available in [this repository](https://github.com/AnishParkhe/llm-robosim-code)
 
 ---
